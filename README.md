@@ -4,7 +4,7 @@
 I'm a passionate developer focused on building scalable, user-friendly applications and exploring modern technologies. 
 
 - 🔭 **Current Focus:** Building full-stack web applications and API integrations.
-- 🌱 **Learning:** Cloud architectures, DevOps practices, and system design.
+- 🌱 **Learning:** Data Structures & Algorithms, LeetCode problem solving, and competitive programming.
 - 👯 **Collaboration:** Open to collaborating on innovative open-source projects.
 - 💬 **Ask Me About:** JavaScript, Python, web frameworks, and database design.
 - 📫 **How to reach me:** [k.sabarish2005@gmail.com](k.sabarish2005@gmail.com)
