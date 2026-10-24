@@ -1,4 +1,4 @@
-# Hi there, I'm Saba 👋
+# Hi there, I'm Sabarish 👋
 
 ### 🚀 About Me
 I'm a passionate developer focused on building scalable, user-friendly applications and exploring modern technologies. 
